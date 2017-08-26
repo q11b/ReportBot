@@ -1,5 +1,5 @@
-#ÕËºÅ´æ´¢ÓÚaccounts.txtÖĞ
+#è´¦å·å­˜å‚¨äºaccounts.txtä¸­
 #python version:2.7
-#µÚÈı·½¿â:
+#ç¬¬ä¸‰æ–¹åº“:
 #requests
 #PyCrypto
